@@ -46,7 +46,7 @@ const Contact = () => {
             <nav aria-label="main mailbox folders">
               <List>
                 <ListItem disablePadding  className="contact-list-item">
-                  <ListItemButton  href="https://www.linkedin.com/in/abhinav-kumar-904254195/" target="_blank">
+                  <ListItemButton  href="https://www.linkedin.com/in/sujal-darla-b4074b28b/" target="_blank">
                     <ListItemIcon>
                       <BsLinkedin className="contact-icon" />
                     </ListItemIcon>
@@ -54,7 +54,7 @@ const Contact = () => {
                   </ListItemButton>
                 </ListItem>
                 <ListItem disablePadding className="contact-list-item">
-                  <ListItemButton href="https://github.com/Abhinav2011" target="_blank">
+                  <ListItemButton href="https://github.com/sujal-321" target="_blank">
                     <ListItemIcon>
                       <BsGithub className="contact-icon" />
                     </ListItemIcon>
@@ -62,7 +62,7 @@ const Contact = () => {
                   </ListItemButton>
                 </ListItem>
                 <ListItem disablePadding className="contact-list-item">
-                  <ListItemButton href="https://twitter.com/Abhinav36650041" target="_blank">
+                  <ListItemButton href="https://x.com/SujalDarla" target="_blank">
                     <ListItemIcon>
                       <BsTwitter className="contact-icon" />
                     </ListItemIcon>
@@ -72,14 +72,14 @@ const Contact = () => {
                 <ListItem disablePadding className="contact-list-item">
                   <ListItemButton
                     onClick={() =>
-                      (window.location = "mailto:abhi32eee@gmail.com")
+                      (window.location = "mailto:sujaldarla3@gmail.com")
                     }
                   >
                     <ListItemIcon>
                       <HiMailOpen className="contact-icon" />
                     </ListItemIcon>
                     <ListItemText
-                      primary="Mail (abhi32eee@gmail.com)"
+                      primary="Mail (sujaldarla3@gmail.com)"
                       className="contact-text"
                     />
                   </ListItemButton>

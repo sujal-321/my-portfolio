@@ -90,12 +90,6 @@ const TechStack = () => {
               style={{ width: "100%", height: "auto", color: "orange" }}
             />{" "}
           </Card>
-          <Card raised className="item">
-            {" "}
-            <FaDocker
-              style={{ width: "100%", height: "auto", color: "#0db7ed" }}
-            />{" "}
-          </Card>
         </Card.Group>
       </div>
     </div>

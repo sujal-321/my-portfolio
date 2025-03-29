@@ -33,7 +33,7 @@ const HomePage = () => {
                   textDecoration: "",
                 }}
               >
-                ABHINAV KUMAR
+                SUJAL DARLA
               </span>
             </h1>
           </div>

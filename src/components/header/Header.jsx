@@ -22,14 +22,12 @@ const pages = [
   { text: "About", href: "/about" },
   { text: "Projects", href: "/projects" },
   { text: "Contact", href: "/contact" },
-  { text: "Fork Project", href: "https://github.com/Abhinav2011/my-portfolio" },
 ];
 const pageIcons = [
   HomeRoundedIcon,
   FaceRoundedIcon,
   FolderSharedRoundedIcon,
   CallRoundedIcon,
-  BsGithub,
 ];
 
 const Header = () => {
@@ -62,7 +60,7 @@ const Header = () => {
               textDecoration: "none",
             }}
           >
-            Abhinav Kumar
+            Sujal Darla
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
@@ -120,7 +118,7 @@ const Header = () => {
               textDecoration: "none",
             }}
           >
-            Abhinav Kumar
+            Sujal Darla
           </Typography>
           <Box
             justifyContent="flex-end"
