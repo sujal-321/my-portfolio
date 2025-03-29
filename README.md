@@ -9,7 +9,7 @@ My portfolio built using React JS
 
 ## Demo
 
-https://my-portfolio-abhinav2011.vercel.app/
+https://my-portfolio-sujaldarla.vercel.app/
 
 
 ## Run Locally
@@ -17,7 +17,7 @@ https://my-portfolio-abhinav2011.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Abhinav2011/my-portfolio
+  git clone https://github.com/sujal-321/my-portfolio
 ```
 
 Go to the project directory
@@ -43,11 +43,11 @@ Start the server
 Pull docker image
 
 ```bash
-docker pull abhinav2011/abhinav-portfolio
+docker pull sujal-321/sujal-portfolio
 ```
 
 Run the docker image
 
 ```bash
-docker run -p 5173:5173 abhinav2011/abhinav-portfolio
+docker run -p 5173:5173 sujal-321/sujal-portfolio
 ```
